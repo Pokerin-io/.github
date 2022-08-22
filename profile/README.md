@@ -1,4 +1,4 @@
-![GitHub-cover](/images/pokerin_logo.png)
+![GitHub-cover](./images/pokerin_logo.png)
 
 # About Pokerin
 
